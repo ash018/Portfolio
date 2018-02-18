@@ -1,2 +1,2 @@
 # Portfolio
-Sample Website of mone
+Sample Website of myself
